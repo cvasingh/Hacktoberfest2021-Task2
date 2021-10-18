@@ -1,8 +1,19 @@
+body{
+
+        background-color: rgba(2, 225, 139, 1.0);
+}
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
-    font-size: 10px;
+    font-size: 24px;
+}
+img{
+    height: 200px;
+
+}
+.img{
+    text-align: center;
 }
